@@ -1,0 +1,27 @@
+html,body{height: 100%}
+ 
+body{
+min-height: 100%;
+height: auto !important;
+height: 100%;
+position: relative;
+margin:0;
+padding:0;
+font:15px Tahoma;
+color:#555;}
+
+ 
+#header{
+height:150px;
+background:rgb(14, 177, 36);}
+ 
+#content{
+padding-bottom:200px;
+height:100%;}
+ 
+#footer{
+height:200px;
+width:100%;
+position:absolute;
+bottom:0;
+background:#333;}
